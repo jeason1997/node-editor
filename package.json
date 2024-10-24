@@ -20,6 +20,6 @@
         "litegraph.js": "^0.7.0",
         "rete-connection-plugin": "^0.8.1",
         "rete-vue-render-plugin": "^0.4.0",
-        "vue": "^2.6.10"
+        "vue": "^3.0.0"
     }
 }
